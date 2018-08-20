@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string-array name="places">
+        <item><b>Rp 50,000</b>/hari</item>
+        <item><b>Rp 35,000</b>/hari</item>
+        <item><b>Rp 25,000</b>/hari</item>
+    </string-array>
+    <string-array name="package_price">
+        <item>50000</item>
+        <item>35000</item>
+        <item>25000</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>Berbagai pilihan hidangan sehat penuh cita rasa dalam 500kkal.</item>
+        <item>Pilihan tepat untuk kamu yang menginginkan variasi karbohidrat selain nasi dan porsi lauk utama yang lebih besar.</item>
+        <item>Berbagai sajian makanan bergizi komplit dengan 60 variasi menu yang berganti setiap hari.</item>
+    </string-array>
+    <array name="places_picture">
+        <item>@drawable/paket_healthy</item>
+        <item>@drawable/paket_deluxe</item>
+        <item>@drawable/paket_basic</item>
+    </array>
+</resources>
